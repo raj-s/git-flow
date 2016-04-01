@@ -1,1 +1,1 @@
-# git-flow version 1.4
+# git-flow version 1.5
